@@ -24,7 +24,7 @@ This study predicts if cryptocurrencies are affected by 24-hour or 7-day price c
 
 
 - Conclusion
-  Visualizing the clusters in the original feature space reveals that the four clusters are not clearly separated.However, when visualized in the reduced dimensionality space, the clusters become more distinct and tightly clustered. This indicates that dimensionality reduction enabled the k-means algorithm to identify more coherent, well-separated clusters, despite using fewer features. Reducing dimensions has reduced the redundant or less informative features. The remaining features were able to better capture the key differences between the clusters and making them distinct.
+  - Visualizing the clusters in the original feature space reveals that the four clusters are not clearly separated.However, when visualized in the reduced dimensionality space, the clusters become more distinct and tightly clustered. This indicates that dimensionality reduction enabled the k-means algorithm to identify more coherent, well-separated clusters, despite using fewer features. Reducing dimensions has reduced the redundant or less informative features. The remaining features were able to better capture the key differences between the clusters and making them distinct.
   
 
 
